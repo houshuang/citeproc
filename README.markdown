@@ -5,7 +5,7 @@ to generate citations and a bibliography, given a database of bibliographic
 references and a [CSL] stylesheet.  The idea is to make it possible for
 non-Haskell programs to use this excellent tool.
 
-[citeproc-hs]: http://gorgias.mine.nu/repos/citeproc-hs/
+[citeproc-hs]: http://istitutocolli.org/repos/citeproc-hs/
 [CSL]: http://citationstyles.org/
 
 ## Usage
